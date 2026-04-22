@@ -76,16 +76,16 @@ https://Akshaya-vanam.github.io/assignment-dashboard
 ##  Screenshots
 
 ###  Login Page
-![Login](./screenshots/login.png)
+![Login](login.png)
 
 ### 🎓 Student Dashboard
-![Student](./screenshots/student_dashboard.png)
+![Student](student_dashboard.png)
 
 ###  Professor Dashboard
-![Professor](./screenshots/professor-dashboard.png)
+![Professor](professor-dashboard.png)
 
 ### Assignment 
-![Assignment](./screenshots/student_assignments.png)
+![Assignment](student_assignments.png)
 
 ---
 
